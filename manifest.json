@@ -1,0 +1,16 @@
+{
+  "name": "CBAM India Strategic Planner",
+  "short_name": "CBAM Calc",
+  "description": "Strategic CBAM 2026-2034 Calculator for India",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#003366",
+  "theme_color": "#003366",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2845/2845876.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
